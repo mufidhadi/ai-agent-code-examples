@@ -1,6 +1,6 @@
 # AI Agent Course Source code
 ## How to install:
-1. clone the repo
+1. clone this repo `git clone https://github.com/mufidhadi/ai-agent-code-examples.git`
 2. navigate to this project directory
 3. run `uv sync`
 4. run `.\.venv\Scripts\activate` on windows or `source .venv/bin/activate` on linux and mac
